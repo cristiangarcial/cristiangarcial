@@ -1,4 +1,4 @@
--  Hi, I’m @cristiangarcial
+-  Hi, I’m Cristian
 -  I’m interested in Computer Science
 -  I’m currently learning Operating Systems and Software Engineering
 -  I’m looking for a 2021 Summer internship
