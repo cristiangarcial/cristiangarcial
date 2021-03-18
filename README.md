@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @cristiangarcial
 - 👀 I’m interested in Computer Science
-- 🌱 I’m currently learning Operating systems, Software Engineering
+- 🌱 I’m currently learning Operating Systems and Software Engineering
 - 💞️ I’m looking for a 2021 Summer internship
 - 📫 How to reach me ... gcristian2010@live.com
 
