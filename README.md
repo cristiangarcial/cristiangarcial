@@ -1,7 +1,7 @@
 -  Hi, I’m Cristian
 -  I’m interested in Computer Science
 -  I’m currently learning Operating Systems and Software Engineering
--  I’m looking for a 2021 Summer internship
+-  I’m looking for a 2021 Summer or 2021 Fall internship
 -  How to reach me gcristian2010@live.com
 
 <!---
